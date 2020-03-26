@@ -1,0 +1,6 @@
+{
+	"Sensor.ASRSETMODE":"设置识别模式：1循环识别模式；2口令模式；3按键模式。设置的识别模式可以掉电保存",
+	"Sensor.ASRREAD":"获取识别结果",
+	"Sensor.ASRAddWords":"添加词条，添加的词条可以掉电保存",
+	"Sensor.ASRWORDSERASE":"擦除所有设置的词条",
+}
