@@ -1,0 +1,21 @@
+{
+    "name": "Hw_Sensor",
+    "version": "0.0.1",
+    "description": "Extension for Hiwonder Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/Hw_Sensor-strings.json",
+        "_locales/zh/Hw_Sensor-jsdoc-strings.json",
+	"_locales/ko/Hw_Sensor-strings.json",
+	"_locales/ko/Hw_Sensor-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
